@@ -16,14 +16,9 @@
       "des": "Tập 3"
     },
     {
-      "id": "00a8",
       "title": "Harry Potter",
-      "des": "Tập 4"
-    },
-    {
-      "id": "2765",
-      "title": "Harry Potter",
-      "des": "Tập 5"
+      "des": "Tập 5",
+      "id": "2765"
     },
     {
       "id": "eb9c",
@@ -31,9 +26,9 @@
       "des": "Tập 6"
     },
     {
-      "id": "1dfb",
       "title": "Harry Potter",
-      "des": "Tập 7"
+      "des": "Tập 7",
+      "id": "1dfb"
     },
     {
       "id": "5851",
@@ -41,9 +36,9 @@
       "des": "Tập 1"
     },
     {
-      "id": "04c1",
-      "title": "Naruto",
-      "des": "Tập 2"
+      "title": "Luffy",
+      "des": "tap 1",
+      "id": "7908"
     }
   ]
 }
